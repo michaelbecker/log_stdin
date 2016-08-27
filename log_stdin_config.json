@@ -1,0 +1,8 @@
+{
+    "logfile_name": "logfile.dat",
+    "path": ".",
+    "max_number_logfiles": 5,
+    "max_logfile_size": 1000000,
+    "timestamp": true
+}
+

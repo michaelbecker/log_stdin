@@ -1,0 +1,6 @@
+echo "LOGFILE" > LOGFILE
+echo "LOGFILE.1" > LOGFILE.1
+echo "LOGFILE.2" > LOGFILE.2
+echo "LOGFILE.3" > LOGFILE.3
+echo "LOGFILE.4" > LOGFILE.4
+
